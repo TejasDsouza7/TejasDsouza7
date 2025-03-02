@@ -30,3 +30,8 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Swordthejas/Swordthejas/output/snake.svg" alt="Snake animation" />
+
+###

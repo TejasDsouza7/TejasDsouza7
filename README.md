@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Tejas and I'm a Minecraft & Malware Dev, from India</h2>
+<h2 align="center">Hi 👋! My name is Tejas and I'm a Cheats & Malwares Dev, from India</h2>
 
 ###
 
